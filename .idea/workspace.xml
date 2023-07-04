@@ -6,15 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9b51ed9b-8a61-483e-a5b2-355400231d3c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/domain/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/domain/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/domain/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/domain/Genre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/resource/AuthorResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/resource/AuthorResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/components/AuthorsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/AuthorsList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/components/BooksDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/BooksDetails.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/components/GenresList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/GenresList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/services/AuthorService.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/services/AuthorService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/services/BookService.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/services/BookService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/services/GenreService.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/services/GenreService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/components/GenresCreate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/GenresCreate.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +78,7 @@
       <workItem from="1688340524440" duration="659000" />
       <workItem from="1688384485761" duration="3368000" />
       <workItem from="1688473662298" duration="2743000" />
+      <workItem from="1688487666191" duration="3209000" />
     </task>
     <servers />
   </component>
