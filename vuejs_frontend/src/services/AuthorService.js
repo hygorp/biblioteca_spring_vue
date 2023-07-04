@@ -18,7 +18,7 @@ class AuthorService {
     }
 
     delete(id) {
-        return http.delete(`/authors/details/delete/${id}`)
+        return http.delete(`/authors/${id}`)
     }
 }
 

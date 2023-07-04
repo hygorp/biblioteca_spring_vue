@@ -8,6 +8,10 @@ class GenreService {
     create(data) {
         return http.post("/genres", data);
     }
+
+    delete(id) {
+        return http.delete(`/genres/${id}`)
+    }
 }
 
 export default new GenreService();

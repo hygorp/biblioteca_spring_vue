@@ -19,7 +19,7 @@ public class Author implements Serializable {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     private String name;
-    @ManyToMany(mappedBy = "authors")
+    @ManyToMany(mappedBy = "authors", cascade = CascadeType.ALL)
     @JsonIgnoreProperties(value = {"authors", "genres"})
     private Set<Book> books = new HashSet<>();
 

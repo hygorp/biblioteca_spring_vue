@@ -19,7 +19,7 @@ class BookService {
     }
 
     delete(id) {
-        return http.delete(`/books/details/delete/${id}`)
+        return http.delete(`/books/${id}`)
     }
 }
 

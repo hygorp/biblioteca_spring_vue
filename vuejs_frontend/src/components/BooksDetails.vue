@@ -59,7 +59,7 @@
             </div>
 
             <div class="col col-lg-2">
-              <button type="button" class="btn btn-danger btn-sm">Delete Book</button>
+              <button type="submit" class="btn btn-danger btn-sm" @click="deleteBook">Delete Book</button>
             </div>
           </div>
 
@@ -87,10 +87,10 @@
           console.log(response.data);
         });
       },
-      delete() {
+      deleteBook() {
         BookService.delete(this.currentBook.id).then(response => {
           console.log(response.data);
-          this.$router.push({ name: "books" });
+          window.location.replace("/books");
         })
       }
     },

@@ -5,42 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b51ed9b-8a61-483e-a5b2-355400231d3c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/BibliotecaApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/config/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/domain/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/domain/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/domain/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/domain/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/domain/Genre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/domain/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/domain/OrderItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/pk/OrderItemPK.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/repository/AddressRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/repository/AuthorRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/repository/BookRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/repository/ClientRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/repository/GenreRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/repository/OrderItemRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/repository/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/resource/AuthorResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/resource/BookResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/resource/ClientResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/resource/GenreResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/resource/OrderResource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/service/AddressService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/service/AuthorService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/service/BookService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/service/ClientService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/service/GenreService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hygorp/biblioteca/service/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hygorp/biblioteca/BibliotecaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/domain/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/domain/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/domain/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/domain/Genre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/resource/AuthorResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_app/src/main/java/com/hygorp/biblioteca/resource/AuthorResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/components/AuthorsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/AuthorsList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/components/BooksDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/BooksDetails.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/components/GenresList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/GenresList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/services/AuthorService.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/services/AuthorService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/services/BookService.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/services/BookService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/services/GenreService.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/services/GenreService.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,24 +39,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;999816d7a617e650c796109566e1337c&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="BibliotecaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Biblioteca" />
@@ -100,7 +79,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688051481658</updated>
-      <workItem from="1688051485544" duration="1080000" />
+      <workItem from="1688051485544" duration="1938000" />
+      <workItem from="1688064809363" duration="1300000" />
+      <workItem from="1688340524440" duration="659000" />
+      <workItem from="1688384485761" duration="3368000" />
+      <workItem from="1688473662298" duration="2743000" />
     </task>
     <servers />
   </component>
