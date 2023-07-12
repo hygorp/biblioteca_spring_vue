@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b51ed9b-8a61-483e-a5b2-355400231d3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/AuthorsDetails.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vuejs_frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/components/GenresCreate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/GenresCreate.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/components/AuthorsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/AuthorsList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/components/BooksCreate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/components/BooksCreate.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/http-common.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/http-common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuejs_frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/vuejs_frontend/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +83,10 @@
       <workItem from="1688340524440" duration="659000" />
       <workItem from="1688384485761" duration="3368000" />
       <workItem from="1688473662298" duration="2743000" />
-      <workItem from="1688487666191" duration="3209000" />
+      <workItem from="1688487666191" duration="3830000" />
+      <workItem from="1688507652234" duration="696000" />
+      <workItem from="1688583418601" duration="857000" />
+      <workItem from="1688593104535" duration="2984000" />
     </task>
     <servers />
   </component>

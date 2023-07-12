@@ -32,6 +32,12 @@ const routes = [
         component: () => import("./components/AuthorsCreate.vue")
     },
     {
+        path: "/authors/:id/details",
+        alias: "/authors/:id/details",
+        name: "Author Detail",
+        component: () => import("./components/AuthorsDetails.vue")
+    },
+    {
         path: "/genres",
         alias: "/genres",
         name: "Genres",
@@ -42,6 +48,12 @@ const routes = [
         alias: "/genres/add",
         name: "Add Genre",
         component: () => import("./components/GenresCreate.vue")
+    },
+    {
+        path: "/genres/:id/details",
+        alias: "/genres/:id/details",
+        name: "Genre Detail",
+        component: () => import("./components/GenreDetails.vue")
     }
 ];
 

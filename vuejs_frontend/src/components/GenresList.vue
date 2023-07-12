@@ -17,7 +17,7 @@
             <td>{{genre.name}}</td>
             <td class="col-md-2">
               <div class="btn-group">
-                <button type="button" class="btn btn-outline-primary btn-sm">Edit</button>
+                <a type="button" class="btn btn-outline-primary btn-sm" v-bind:href="`/genres/${genre.id}/details`">Edit</a>
                 <button type="submit" class="btn btn-outline-danger btn-sm" @click="deleteGenres(genre.id)">Delete</button>
               </div>
             </td>

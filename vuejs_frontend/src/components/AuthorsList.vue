@@ -17,6 +17,7 @@
           <td>{{author.name}}</td>
           <td class="col-md-2">
             <div class="btn-group">
+              <a type="button" class="btn btn-outline-secondary btn-sm" v-bind:href="`/authors/${author.id}/details`">Details</a>
               <button type="button" class="btn btn-outline-primary btn-sm">Edit</button>
               <button type="submit" class="btn btn-outline-danger btn-sm" @click="deleteAuthors(author.id)">Delete</button>
             </div>

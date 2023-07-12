@@ -1,6 +1,6 @@
 <template>
   <div class="container" v-if="!submitted">
-    <form>
+    <form @submit="create">
       <div class="mb-3">
         <label for="title">Title</label>
         <input type="text" class="form-control" id="title" v-model="book.title" required>
@@ -45,7 +45,7 @@
         </select>
       </div>
 
-      <button type="submit" class="btn btn-primary" @click="create">Submit</button>
+      <button type="submit" class="btn btn-primary">Submit</button>
 
     </form>
   </div>
