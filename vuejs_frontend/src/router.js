@@ -20,6 +20,18 @@ const routes = [
         component: () => import("./components/BooksDetails.vue")
     },
     {
+        path: "/clients",
+        alias: "/clients",
+        name: "Clients",
+        component: () => import("./components/ClientsList.vue")
+    },
+    {
+        path: "/clients/add",
+        alias: "/clients/add",
+        name: "Add Client",
+        component: () => import("./components/ClientsCreate.vue")
+    },
+    {
         path: "/authors",
         alias: "/authors",
         name: "Authors",
