@@ -55,7 +55,7 @@
 
           <div class="row justify-content-md-center">
             <div class="col col-lg-2">
-              <button type="button" class="btn btn-success btn-sm">Save Changes</button>
+              <button type="button" class="btn btn-success btn-sm" @click="edit(currentBook.id, currentBook)">Save Changes</button>
             </div>
 
             <div class="col col-lg-2">
@@ -86,6 +86,11 @@
           this.currentBook = response.data;
           console.log(response.data);
         });
+      },
+      edit(id, data) {
+        BookService.update(id, data).then(response => {
+          console.log(response.data);
+        })
       },
       deleteBook() {
         BookService.delete(this.currentBook.id).then(response => {
