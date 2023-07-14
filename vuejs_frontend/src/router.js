@@ -32,6 +32,12 @@ const routes = [
         component: () => import("./components/ClientsCreate.vue")
     },
     {
+        path: "/clients/:id/details",
+        alias: "/clients/:id/details",
+        name: "Client Detail",
+        component: () => import("./components/ClientsDetails.vue")
+    },
+    {
         path: "/authors",
         alias: "/authors",
         name: "Authors",
